@@ -1,1 +1,1 @@
-Some examle content
+Some example content
